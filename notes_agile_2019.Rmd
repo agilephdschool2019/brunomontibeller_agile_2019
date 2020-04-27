@@ -1,13 +1,16 @@
 ---
-title: "Agile_notes"
-author: "Bruno Montibeller"
-date: "11/28/2019"
-output: html_document
+title: "Agile PhD School Proceedings"
+author:
+  - name: Bruno Montibeller
+    affiliation: University of Tartu, Estonia
+    email: bruno.montibeller@ut.ee
+    orcid: 0000-0000-0000-0000
+abstract:
+   My research will use mainly open source data as well as processing tools.
+output:
+  ceurticles::twocolpceurws_article
+bibliography: samplebib.bib
 ---
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
 
 ## Visualization
 
