@@ -14,7 +14,8 @@ bibliography: samplebib.bib
 
 # Technical Background
 
-A github repository has been created under https://github.com/LandscapeGeoinformatics/LandscapeMetrics_and_TrendCalc as a part of scientific research published in Scientific Reports. Please cite the software in the repository as: Montibeller, B., Kmoch, A., Virro, H. et al. Increasing fragmentation of forest cover in Brazil’s Legal Amazon from 2001 to 2017. Sci Rep 10, 5803 (2020). https://doi.org/10.1038/s41598-020-62591-x
+A github repository has been created under https://github.com/LandscapeGeoinformatics/LandscapeMetrics_and_TrendCalc as a part of scientific research published in Scientific Reports.
+Please cite the software in the repository as: Montibeller, B., Kmoch, A., Virro, H. et al. Increasing fragmentation of forest cover in Brazil’s Legal Amazon from 2001 to 2017. Sci Rep 10, 5803 (2020). https://doi.org/10.1038/s41598-020-62591-x
 
 The software and tools used were R Statistical Language, Python, GDAL, QGIS and ArcMap 10.6. 
 In order to develop the analysis, we used two products of the Global Forest Change dataset (Hansen et al. 2013) freely available at http://earthenginepartners.appspot.com/science-2013-global-forest in Geotiff format. 
