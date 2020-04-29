@@ -9,7 +9,7 @@ abstract:
    In this study the procedures used to calculate landscape metrics and perform trend analysis for large-scale data are described. The main idea was to investigate spatial-temporal changes of the forest loss and forest cover fragmentation process in the Brazilian Legal Amazon (BLA) from 2000-2017. The workflow is applicable on any other region or area.
 output:
   ceurticles::twocolpceurws_article
-bibliography: samplebib.bib
+bibliography: bibliography.bib
 ---
 
 # Technical Background
